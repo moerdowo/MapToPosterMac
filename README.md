@@ -1,4 +1,8 @@
-# MapToPoster for macOS
+<p align="center">
+  <img src="docs/icon.png" width="128" alt="MapToPoster app icon">
+</p>
+
+<h1 align="center">MapToPoster for macOS</h1>
 
 A native macOS (SwiftUI) app that turns any city into a beautiful, minimalist
 map poster. It's a native reimplementation of
@@ -8,6 +12,8 @@ and no Python/matplotlib/OSMnx dependencies.
 
 Type a city, pick a theme, and press **Generate**. The map data comes straight
 from OpenStreetMap.
+
+![App screenshot](docs/screenshot.png)
 
 ![example](docs/example.png)
 
