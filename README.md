@@ -74,3 +74,7 @@ Map data © OpenStreetMap contributors. Geocoding and tile data are fetched from
 the public Nominatim and Overpass APIs — please be mindful of their usage
 policies (the app sends an identifying User-Agent and reuses downloaded data
 across re-renders).
+
+## License
+
+Released under the [MIT License](LICENSE).
